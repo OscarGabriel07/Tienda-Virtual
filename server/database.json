@@ -1,0 +1,164 @@
+{
+	"productos": [
+		{
+			"id": 1,
+			"nombre": "Raqueta de tenis de mesa",
+			"descripcion": "Es una magnifica raqueta para jugar tenis de mesa",
+			"precio": "50.00",
+			"cantidad": "7",
+			"imagen": "https://static.vecteezy.com/system/resources/previews/001/214/009/non_2x/table-tennis-racket-isolated-on-white-background-vector.jpg"
+		},
+        {
+			"id": 2,
+			"nombre": "Nevera multifuncional",
+			"descripcion": "Mantén tus productos frescos todo el tiempo",
+			"precio": "300.00",
+			"cantidad": "5",
+			"imagen": "https://thumbs.dreamstime.com/b/frigor%C3%ADfico-aislado-en-fondo-blanco-cocina-moderna-y-principales-aparatos-dom%C3%A9sticos-nuevo-refrigerador-165661641.jpg"
+		},
+        {
+			"id": 3,
+			"nombre": "Play Station 6",
+			"descripcion": "La última consola de videojuegos con las mejores experiencias de juego",
+			"precio": "600.00",
+			"cantidad": "10",
+			"imagen": "https://st4.depositphotos.com/12549814/38255/i/600/depositphotos_382557402-stock-photo-japan-june-11-2020-presentation.jpg"
+		},
+        {
+			"id": 4,
+			"nombre": "Audifonos inalambricos",
+			"descripcion": "Escucha y controla tu música cómodamente donde quieras",
+			"precio": "40.00",
+			"cantidad": "13",
+			"imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2020/04/06/15861923227555.jpg"
+		},
+        {
+			"id": 5,
+			"nombre": "Balón de Fútbol Profesional",
+			"descripcion": "Juega los mejores partidos de tu vida y haz golazos de calidad",
+			"precio": "70.00",
+			"cantidad": "12",
+			"imagen": "https://deportesregol.com/wp-content/uploads/2020/11/6977_Bal%C3%B3n_Futbol_Golty_Laminado_N5_T656193_.jpg"
+		},
+        {
+			"id": 6,
+			"nombre": "Mesa de Ping Pong",
+			"descripcion": "Comparte con tus amigos jugando ping pong en esta increíble mesa",
+			"precio": "220.00",
+			"cantidad": "5",
+			"imagen": "https://www.urbadep.com/wp-content/uploads/2010/09/mesa-ping-pong-antivandalica-forte-1.jpg"
+		},
+        {
+			"id": 7,
+			"nombre": "Balón de Baloncesto",
+			"descripcion": "Lo mejor para compartir en familia anotando las mejores cestas",
+			"precio": "60.00",
+			"cantidad": "10",
+			"imagen": "https://assets.stickpng.com/images/580b585b2edbce24c47b2ad6.png"
+		},
+        {
+			"id": 8,
+			"nombre": "Canchas de microfútbol",
+			"descripcion": "Diviértete con tus amigos donde quieras con estas increíbles canchas",
+			"precio": "200.00",
+			"cantidad": "8",
+			"imagen": "https://http2.mlstatic.com/D_NQ_NP_709885-MCO42294628535_062020-O.jpg"
+		},
+        {
+			"id": 9,
+			"nombre": "Bicicleta Todoterreno",
+			"descripcion": "Para que te transportes y practiques deporte mientras te diviertes",
+			"precio": "180.00",
+			"cantidad": "4",
+			"imagen": "https://labicikleta.com/wp-content/uploads/2018/03/scott-voltage-yz-0-1-dirt-jump-bike-2018-p329377-473976_image.jpg"
+		},
+        {
+			"id": 10,
+			"nombre": "Televisor Smart 50' Samsung",
+			"descripcion": "Mira tus series favoritas en este espectacular televisor",
+			"precio": "400.00",
+			"cantidad": "8",
+			"imagen": "https://images.samsung.com/is/image/samsung/co-uhd-tu7000-un50tu7000kxzl-rperspectivetitangray-228753375?$720_576_PNG$"
+		},
+        {
+			"id": 11,
+			"nombre": "Reloj de Mano",
+			"descripcion": "Lindo reloj de mano con un estilo único para ti",
+			"precio": "50.00",
+			"cantidad": "12",
+			"imagen": "https://i.linio.com/p/8016e05ce8017bcf33fc9555ffac1452-product.jpg"
+		},
+        {
+			"id": 12,
+			"nombre": "Maleta Adidas",
+			"descripcion": "Útil para llevar tus cosas a donde quieras",
+			"precio": "350.00",
+			"cantidad": "15",
+			"imagen": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/e19f72c80f5543139bd9ad9e0120fa20_9366/morral-power-vi.jpg"
+		},
+        {
+			"id": 13,
+			"nombre": "Torre de Sonido LG",
+			"descripcion": "Arma la fiesta y disfruta su maravilloso sonido",
+			"precio": "450.00",
+			"cantidad": "13",
+			"imagen": "https://olimpica.vtexassets.com/arquivos/ids/262697/Torre-de-Sonido-LG-XBOOM-RN9-1800W.jpg?v=637316490876530000"
+		},
+        {
+			"id": 14,
+			"nombre": "Horno Microoondas Haceb",
+			"descripcion": "Disfruta de tus alimentos calientes en cualquier momento",
+			"precio": "180.00",
+			"cantidad": "16",
+			"imagen": "https://img.clasf.co/2019/09/04/Horno-Microondas-Haceb-Acero-Inoxidable-Plateado-Cocina-Hs-20190904214130.1496680015.jpg"
+		},
+        {
+			"id": 15,
+			"nombre": "Palo de Golf",
+			"descripcion": "Haz tus mejores golpes con este increíble producto",
+			"precio": "240.00",
+			"cantidad": "6",
+			"imagen": "https://media.istockphoto.com/photos/golf-club-picture-id460900927?k=20&m=460900927&s=612x612&w=0&h=dBJyESwlbQX4INOp9rLfncKj2FnJ6Wyxmzz00sarAfg="
+		},
+        {
+			"id": 16,
+			"nombre": "Portátil HP",
+			"descripcion": "Para que realices tu trabajo con rapidez y eficiencia",
+			"precio": "700.00",
+			"cantidad": "8",
+			"imagen": "https://dhstore.com.co/wp-content/uploads/2021/05/Portatil-Hp-Laptop-14-cf3050la-Intel-Core-i3-1005G1-512GB.jpg"
+		},
+        {
+			"id": 17,
+			"nombre": "Celular Samsung Galaxy S22 Plus",
+			"descripcion": "la mejor experiencia te da Samsung con sus espectaculares celulares",
+			"precio": "800.00",
+			"cantidad": "19",
+			"imagen": "https://cdn.shopify.com/s/files/1/0565/7598/3731/products/funda-cool-silicona-para-samsung-s906-galaxy-s22-plus-transparente_800x.jpg?v=1652727261"
+		},
+        {
+			"id": 18,
+			"nombre": "Mouse inalambrico Dell",
+			"descripcion": "Lo mejor para tu trabajo y productividad",
+			"precio": "140.00",
+			"cantidad": "25",
+			"imagen": "https://www.laserprintsoluciones.com/wp-content/uploads/2021/11/WM126-BK_1.jpg"
+		},
+        {
+			"id": 19,
+			"nombre": "Lavadora LG",
+			"descripcion": "Lavar tu ropa nunca fue tan perfecto y divertido",
+			"precio": "550.00",
+			"cantidad": "10",
+			"imagen": "https://www.efameinsa.com/image/cache/catalog/productos/lavanderia/lavadoras-comerciales/giant-c-max/lavadora-comercial-lg-giant-c-max-opl-efameinsa-800x800.jpg"
+		},
+        {
+			"id": 20,
+			"nombre": "Carro Control Remoto",
+			"descripcion": "Sorprende a un niño con este divertido juguete",
+			"precio": "130.00",
+			"cantidad": "12",
+			"imagen": "https://www.nicepng.com/png/detail/338-3384680_nikko-alien-panic-remote-control-car.png"
+		}
+    ]   
+}
